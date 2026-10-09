@@ -16,6 +16,6 @@ Used:
 * Tkinter
 * JSON
 
-What I Learned
+What I Learned:
 This project helped me improve my Python skills and learn more about file handling, functions, dictionaries, sorting, input validation and creating a GUI.
 I also learned how to bring different features together to create a working program.
